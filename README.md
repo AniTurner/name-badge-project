@@ -5,7 +5,7 @@
 #### Completed according to assignment instructions: 
 - https://coursework.vschool.io/name-badge/
 #### Technologies Used
-* HTML, Responsive CSS, JavaScript, React, Axios, Node
+* HTML, Responsive CSS, JavaScript, React, Axios, Node.js
 #### Screenshot:
 <a href="" target="_blank"><img src="./screenshots/completeview.png"></a>
 <a href="" target="_blank"><img src="./screenshots/errormsg.png"></a>
