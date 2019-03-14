@@ -7,6 +7,6 @@
 #### Technologies Used
 * HTML, Responsive CSS, JavaScript, React, Axios, Node
 #### Screenshot:
-<a href="" target="_blank"><img src="completeview.png"></a>
-<a href="" target="_blank"><img src="errormsg.png"></a>
-<a href="" target="_blank"><img src="inputform.png"></a>
+<a href="" target="_blank"><img src="./screenshots/completeview.png"></a>
+<a href="" target="_blank"><img src="./screenshots/errormsg.png"></a>
+<a href="" target="_blank"><img src="./screenshots/inputform.png"></a>
